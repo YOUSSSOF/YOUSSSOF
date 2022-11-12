@@ -13,4 +13,7 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" height="70">          <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="70">          <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="70">          <img src="https://storage.googleapis.com/indie-hackers.appspot.com/group-icons/ruby-on-rails/PWairgiOpneHvkGJri7RVbtORKI2" height="70">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUSSSOF)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My stat 🤔:
+
+![Yousof's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dracula)

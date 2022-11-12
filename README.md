@@ -20,4 +20,4 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSSOF&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Buy yourself a coffee, it's cold out here <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coffee_cup_flat.svg/1200px-Coffee_cup_flat.svg.png" height="30">
+#### Buy yourself a coffee, it's cold out here ☕

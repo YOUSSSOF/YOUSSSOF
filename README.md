@@ -9,15 +9,15 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="70">          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="70">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="70">
 
 
-#### Frameworks that i love:
+### Frameworks that i love:
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" height="70">          <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="70">          <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="70">          <img src="https://storage.googleapis.com/indie-hackers.appspot.com/group-icons/ruby-on-rails/PWairgiOpneHvkGJri7RVbtORKI2" height="70">
 
 
-#### My stat 🤔:
+### My stat 🤔:
 
 ![Yousof's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSSOF&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Buy yourself a coffee, it's cold out here <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coffee_cup_flat.svg/1200px-Coffee_cup_flat.svg.png" height="30">
+#### Buy yourself a coffee, it's cold out here <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coffee_cup_flat.svg/1200px-Coffee_cup_flat.svg.png" height="30">

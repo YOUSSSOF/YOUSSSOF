@@ -11,7 +11,7 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 
 ### Frameworks that i love:
 
-<img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" height="70">          <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="70">          <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="70">          <img src="https://storage.googleapis.com/indie-hackers.appspot.com/group-icons/ruby-on-rails/PWairgiOpneHvkGJri7RVbtORKI2" height="70">
+<img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" height="70">          <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="70">          <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="70">
 
 
 ### My stat 🤔:
@@ -20,4 +20,4 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSSOF&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Buy yourself a coffee, it's cold out here ☕
+Buy yourself a coffee, it's cold out here ☕

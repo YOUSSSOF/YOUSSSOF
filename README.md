@@ -6,7 +6,7 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 
 #### Programming languages that i use:
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="70" style="margin-right: 30px;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="70"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="70">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="70" style="padding-right: 30px;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="70"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="70">
 
 
 ### Frameworks that i love:

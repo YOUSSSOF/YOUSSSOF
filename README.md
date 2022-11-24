@@ -15,11 +15,11 @@ I enjoy coding in my free time, it's kinda cool and can solve my regular problem
 <h1>Frameworks:</h1>
 
 <div align="center">
-  <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" height="60">
-  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="60">
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/17520894/ruby-on-rails-512.png" height="60">
-  <img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg" height="60">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="60">
+  <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" height="60" style="margin: 10px">
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" style="margin: 10px">
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/17520894/ruby-on-rails-512.png" height="60" style="margin: 10px">
+  <img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg" height="60" style="margin: 10px">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="60" style="margin: 10px">
 </div>
 
 

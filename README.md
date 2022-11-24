@@ -1,4 +1,4 @@
-## 🤠 Hey everyone, I'm Yousof 👋
+<h1 align="center"> 🤠 Hey, I'm Yousof 👋</h1>
 
 ![206429_1_50](https://user-images.githubusercontent.com/93007857/201488100-1f989142-e476-44b8-a02e-83f2e9974a8a.jpg)
 

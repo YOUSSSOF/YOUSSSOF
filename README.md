@@ -1,7 +1,7 @@
 <h1 align="center"> 🤠 Hey there, I'm Yousof 👋</h1>
-<h3 align="center">-- a cinephile developer --</h3>
 
-I enjoy coding in my free time, it's kinda cool and can solve my regular problems, so, Why not ?)
+I enjoy coding in my free time, it's kinda cool and can solve my regular problems, so, Why not ?)  ![33502-programmer-man](https://user-images.githubusercontent.com/93007857/203725404-b17768d2-7660-4782-b258-8de8a2c57831.gif)
+
 
 
 #### Languages:

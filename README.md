@@ -1,5 +1,5 @@
 <h1 align="center"> 🤠 Hey there, I'm Yousof 👋</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A cinephile developer</h3>
 
 I enjoy coding in my free time, it's kinda cool and can solve my regular problems, so, Why not ?)
 

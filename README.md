@@ -19,9 +19,8 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 
 
 # STATS
-<div style="width: 100%;">
-   <img src="https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%">
+
 
 
 Buy yourself a coffee, it's cold out here ☕

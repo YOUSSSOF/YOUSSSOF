@@ -3,10 +3,20 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 
 # Skills
 
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSSOF&layout=compact&theme=dark&card_width=250&langs_count=6&hide_title=true&exclude_repo=github-readme-stats)
-![Django](https://img.shields.io/badge/Django-Expert-092e20?logo=django)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter)
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-blue?style=for-the-badge&logo=fastapi)
+![Dart](https://img.shields.io/badge/Dart-Expert-blue?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter)
+![Bloc](https://img.shields.io/badge/Bloc-Expert-blue?style=for-the-badge&logo=flutter)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)
+![Ruby](https://img.shields.io/badge/Ruby-Expert-red?style=for-the-badge&logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-Expert-red?style=for-the-badge&logo=rubyonrails)
+![WordPress](https://img.shields.io/badge/WordPress-Expert-blue?style=for-the-badge&logo=wordpress)
+
 
 <h1>Frameworks:</h1>
 

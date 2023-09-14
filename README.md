@@ -18,9 +18,8 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=40)
 
 
-# STATS
+# 📊 STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%">
 
 
-
-Buy yourself a coffee, it's cold out here ☕
+# ACTIVITIES

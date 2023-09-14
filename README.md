@@ -23,3 +23,5 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 
 
 # ACTIVITIES
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUSSSOF)
+

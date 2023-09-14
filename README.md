@@ -19,7 +19,7 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 
 
 # STATS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSSSOF&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dark)
 
 
 Buy yourself a coffee, it's cold out here ☕

@@ -1,7 +1,7 @@
 I am a dedicated and versatile full-stack developer with a passion for crafting robust and user-friendly applications. My expertise lies in harnessing the power of Flutter and Bloc state management to create intuitive and visually appealing front-end experiences that resonate with users. On the backend, I wield the proficiency of Python and Django to architect and develop the reliable and scalable foundations upon which these applications thrive. With a strong commitment to clean code and best practices, I aim to deliver solutions that not only meet the technical demands but also prioritize user satisfaction. My journey in software development is characterized by continuous learning, innovation, and a relentless pursuit of excellence, making me an invaluable asset to any project or team.
 
 
-# Skills
+# 🚀 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=40)
@@ -16,10 +16,6 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&logoWidth=40)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&logoWidth=40)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=40)
-
-
-
-<h1>Frameworks:</h1>
 
 <div align="center">
   <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" height="60" style="margin: 10px">

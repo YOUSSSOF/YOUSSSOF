@@ -22,8 +22,8 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%">
 
 
-# CONTACT ME
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourUsername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YourUsername)
+# 🤙 CONTACT ME
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUDEXSOF)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youdexsof)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)
 

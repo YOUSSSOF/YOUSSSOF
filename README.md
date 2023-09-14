@@ -3,7 +3,7 @@ I am a dedicated and versatile full-stack developer with a passion for crafting 
 
 # Skills
 
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&card_width=250&langs_count=6&hide_title=true&exclude_repo=github-readme-stats)
+![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSSOF&layout=compact&theme=dark&card_width=250&langs_count=6&hide_title=true&exclude_repo=github-readme-stats)
 ![Django](https://img.shields.io/badge/Django-Expert-092e20?logo=django)
 ![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter)

@@ -3,9 +3,9 @@ I'm yousof, a dedicated and versatile full-stack developer with a passion for cr
 
 
 # 🤙 CONTACT ME
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=YourTelegramUsername&color=2CA5E0&logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/YOUSSSOF)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=YourUsername&color=0077B5&logo=linkedin&style=for-the-badge&logoColor=white)](YourURL)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=YourUsername&color=E4405F&logo=instagram&style=for-the-badge&logoColor=white)]([YourURL](https://www.instagram.com/youdexsof))
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=YOUDEXSOF&color=2CA5E0&logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/YOUSSSOF)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=YOUSOF&color=0077B5&logo=linkedin&style=for-the-badge&logoColor=white)](YourURL)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=YOUDEXSOF&color=E4405F&logo=instagram&style=for-the-badge&logoColor=white)]([YourURL](https://www.instagram.com/youdexsof))
 
 
 

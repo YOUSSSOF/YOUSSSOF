@@ -9,19 +9,19 @@ I'm yousof, a dedicated and versatile full-stack developer with a passion for cr
 
 
 # 🚀 SKILLS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=40)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoWidth=40)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=40)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=40)
-![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=40)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=40)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoWidth=40)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&logoWidth=40)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&logoWidth=40)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=40)
+![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=3776AB&logo=python&style=for-the-badge&logoColor=white)
+![Django](https://img.shields.io/static/v1?label=Django&message=%20&color=092E20&logo=django&style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/static/v1?label=FastAPI&message=%20&color=009688&logo=fastapi&style=for-the-badge&logoColor=white)
+![Dart](https://img.shields.io/static/v1?label=Dart&message=%20&color=0175C2&logo=dart&style=for-the-badge&logoColor=white)
+![Flutter](https://img.shields.io/static/v1?label=Flutter&message=%20&color=02569B&logo=flutter&style=for-the-badge&logoColor=white)
+![Bloc](https://img.shields.io/static/v1?label=Bloc&message=%20&color=02569B&logo=flutter&style=for-the-badge&logoColor=white)
+![HTML](https://img.shields.io/static/v1?label=HTML&message=%20&color=E34F26&logo=html5&style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=%20&color=1572B6&logo=css3&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=%20&color=F7DF1E&logo=javascript&style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/static/v1?label=React&message=%20&color=61DAFB&logo=react&style=for-the-badge&logoColor=white)
+![Ruby](https://img.shields.io/static/v1?label=Ruby&message=%20&color=CC342D&logo=ruby&style=for-the-badge&logoColor=white)
+![Ruby on Rails](https://img.shields.io/static/v1?label=Ruby%20on%20Rails&message=%20&color=CC0000&logo=rubyonrails&style=for-the-badge&logoColor=white)
+![WordPress](https://img.shields.io/static/v1?label=WordPress&message=%20&color=21759B&logo=wordpress&style=for-the-badge&logoColor=white)
 
 
 # 📊 STATS

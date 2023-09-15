@@ -2,8 +2,13 @@
 I'm yousof, a dedicated and versatile full-stack developer with a passion for crafting robust and user-friendly applications. My expertise lies in harnessing the power of Flutter and Bloc state management to create intuitive and visually appealing front-end experiences that resonate with users. On the backend, I wield the proficiency of Python and Django to architect and develop the reliable and scalable foundations upon which these applications thrive. With a strong commitment to clean code and best practices, I aim to deliver solutions that not only meet the technical demands but also prioritize user satisfaction. My journey in software development is characterized by continuous learning, innovation, and a relentless pursuit of excellence, making me an invaluable asset to any project or team.
 
 
-# 🚀 SKILLS
+# 🤙 CONTACT ME
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUDEXSOF)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youdexsof)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)
 
+
+# 🚀 SKILLS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=40)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoWidth=40)
@@ -21,10 +26,3 @@ I'm yousof, a dedicated and versatile full-stack developer with a passion for cr
 
 # 📊 STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%">
-
-
-# 🤙 CONTACT ME
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUDEXSOF)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youdexsof)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)
-

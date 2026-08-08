@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=200&section=header&text=Yousof&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Python%20%E2%80%A2%20Django&descAlignY=55&descSize=18" alt="banner" />
 
 <a href="https://github.com/YOUSSSOF">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+apps+that+feel+effortless.;Flutter+%2B+Bloc+on+the+front.;Python+%2B+Django+%2F+FastAPI+on+the+back.;Clean+code.+Real+products.+Zero+fluff." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+apps+that+feel+effortless.;Flutter+first+%E2%80%94+Bloc%2C+Riverpod%2C+Provider%2C+GetX.;Python+%2B+Django+%2F+FastAPI+on+the+back.;Clean+code.+Real+products.+Zero+fluff." alt="typing" />
 </a>
 
 <br/><br/>
@@ -27,18 +27,23 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;whoami
 
 ```yaml
-name:      Yousof
-role:      Full-Stack Developer
-frontend:  [ Flutter, Bloc, React ]
-backend:   [ Python, Django, FastAPI, Rails ]
-focus:     shipping products people actually enjoy using
-currently: leveling up system design & scalable backends
-motto:     "Make it work, make it right, make it beautiful."
+name:       Yousof Hashemzadeh
+role:       Full-Stack Developer
+main_focus: Flutter + state management
+state_mgmt: [ Bloc/Cubit, Riverpod, Provider, GetX ]
+backend:    [ Python, Django, FastAPI ]
+also_used:  [ React, Ruby on Rails, WordPress ]
+motto:      "Make it work, make it right, make it beautiful."
 ```
 
-> I build the whole stack — pixel-precise Flutter interfaces on the front,
-> reliable Django/FastAPI services on the back. I care about clean architecture,
-> readable code, and interfaces that don't need a manual.
+> **Flutter is where I live.** Most of my work is building production mobile apps
+> and picking the right state management for the job — Bloc/Cubit when the domain
+> is complex, Riverpod when I want compile-safe DI, Provider or GetX when the app
+> should stay light. I've shipped real apps on all of them.
+>
+> Behind those apps I write the backends too — Django and FastAPI services that
+> stay reliable under load. I've also worked with React, Rails and WordPress when
+> a project called for it.
 
 <br/>
 
@@ -50,13 +55,29 @@ motto:     "Make it work, make it right, make it beautiful."
 
 <div align="center">
 
-**Languages**
+**⚡ Primary — Flutter & State Management**
 
-<img src="https://skillicons.dev/icons?i=python,dart,js,ts,ruby,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="flutter" />
 
-**Frameworks & Libraries**
+<img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-0d1117?style=for-the-badge&logo=flutter&logoColor=00c9ff" alt="bloc" />
+<img src="https://img.shields.io/badge/Riverpod-0d1117?style=for-the-badge&logo=flutter&logoColor=00c9ff" alt="riverpod" />
+<img src="https://img.shields.io/badge/Provider-0d1117?style=for-the-badge&logo=flutter&logoColor=00c9ff" alt="provider" />
+<img src="https://img.shields.io/badge/GetX-0d1117?style=for-the-badge&logo=flutter&logoColor=00c9ff" alt="getx" />
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,flutter,react,rails,tailwind,wordpress&theme=dark" alt="frameworks" />
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="backend" />
+
+**Also Worked With**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,ruby,rails,wordpress,html,css,tailwind&theme=dark" alt="also worked with" />
+
+**AI Coding Agents**
+
+<img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=for-the-badge&logo=claude&logoColor=D97757" alt="claude code" />
+<img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff" alt="codex" />
+<img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff" alt="cursor" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=ffffff" alt="copilot" />
 
 **Data & Infra**
 
@@ -78,8 +99,8 @@ motto:     "Make it work, make it right, make it beautiful."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUSSSOF&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSSOF&layout=compact&langs_count=8&hide_border=true&title_color=00c9ff&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUSSSOF&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSSOF&layout=compact&langs_count=8&hide_border=true&title_color=00c9ff&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
 
 <br/>
 
@@ -103,7 +124,7 @@ motto:     "Make it work, make it right, make it beautiful."
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=YOUSSSOF&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img width="98%" src="https://github-trophies.vercel.app/?username=YOUSSSOF&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -117,28 +138,14 @@ motto:     "Make it work, make it right, make it beautiful."
 
 <div align="center">
 
-<a href="https://github.com/YOUSSSOF/Shoe-Commerce">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUSSSOF&repo=Shoe-Commerce&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&bg_color=0d1117" alt="Shoe-Commerce" />
-</a>
-<a href="https://github.com/YOUSSSOF/Delivery">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUSSSOF&repo=Delivery&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&bg_color=0d1117" alt="Delivery" />
-</a>
-
-<a href="https://github.com/YOUSSSOF/Movies-App">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUSSSOF&repo=Movies-App&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&bg_color=0d1117" alt="Movies-App" />
-</a>
-<a href="https://github.com/YOUSSSOF/Tarkhine">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUSSSOF&repo=Tarkhine&hide_border=true&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&bg_color=0d1117" alt="Tarkhine" />
-</a>
-
-<br/>
-
-<sub>
-  🛍️ <b>Shoe-Commerce</b> — modern e-commerce store in Flutter + GetX &nbsp;·&nbsp;
-  🍔 <b>Delivery</b> — complete food delivery system, Flutter + FastAPI &nbsp;·&nbsp;
-  🎬 <b>Movies-App</b> — Flutter client for the TMDB API &nbsp;·&nbsp;
-  🥘 <b>Tarkhine</b> — Flutter + Bloc front, Python + Django back
-</sub>
+| Project | What it is | Stack | ★ |
+|---|---|---|---|
+| **[🛍️ Shoe-Commerce](https://github.com/YOUSSSOF/Shoe-Commerce)** | Modern e-commerce store with a polished shopping flow | `Flutter` `GetX` | **18** |
+| **[🍔 Delivery](https://github.com/YOUSSSOF/Delivery)** | Complete end-to-end food delivery system | `Flutter` `FastAPI` | **14** |
+| **[🎬 Movies-App](https://github.com/YOUSSSOF/Movies-App)** | Movie browser built on the TMDB API | `Flutter` `REST` | **11** |
+| **[🥘 Tarkhine](https://github.com/YOUSSSOF/Tarkhine)** | Food delivery app, full stack front to back | `Flutter` `Bloc` `Django` | **9** |
+| **[🎸 fretwork](https://github.com/YOUSSSOF/fretwork)** | Offline guitar practice companion — drift-free metronome, no account | `Flutter` | **1** |
+| **[🧩 headless_table](https://github.com/YOUSSSOF/headless_table)** | Headless sort/filter/paginate engine, pure-Dart core | `Dart` `Flutter` | **0** |
 
 <br/><br/>
 
@@ -182,8 +189,8 @@ motto:     "Make it work, make it right, make it beautiful."
 <a href="https://www.instagram.com/youdexsof">
   <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="instagram" />
 </a>
-<a href="mailto:accounts@modertize.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" />
+<a href="mailto:yousofh255@gmail.com">
+  <img src="https://img.shields.io/badge/yousofh255@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" />
 </a>
 <a href="https://github.com/YOUSSSOF">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" />
